@@ -38,13 +38,11 @@ pip install -r requirements.txt
 
 ### Data Preprocessing
 1. **HTML Cleaning:** Remove unwanted HTML tags from the text using `BeautifulSoup`.
-2. **Emoji Processing:** Convert emojis into textual representations using the `emoji` library.
-3. **TF-IDF Vectorization:** Transform text into numerical features for machine learning.
+2. **TF-IDF Vectorization:** Transform text into numerical features for machine learning.
 
 ### Model Pipeline
 We implement a **scikit-learn pipeline** consisting of:
 - **HTMLCleaner** (Custom Transformer) – Removes HTML tags.
-- **EmojiConverter** (Custom Transformer) – Converts emojis to words.
 - **TF-IDF Vectorizer** – Converts text into numerical features.
 - **Logistic Regression** – Classifies reviews as positive or negative.
 
