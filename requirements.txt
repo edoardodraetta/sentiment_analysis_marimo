@@ -1,8 +1,15 @@
+# DS
 pandas
 numpy
 scikit-learn
 marimo
 matplotlib
 seaborn
+optuna
+# nlp
 nltk
 spacy
+tqdm
+emoji
+bs4
+lime
