@@ -1,5 +1,10 @@
 # IMDb Sentiment Analysis
 
+![Marimo](https://img.shields.io/badge/Marimo-Interactive%20Notebooks-blue)
+![LIME](https://img.shields.io/badge/LIME-Explainability-green)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-orange)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 ## Project Overview
 This project builds a **Sentiment Analysis Model** using the **IMDb dataset**. The main goal is to classify movie reviews as **positive** or **negative**. We use **Natural Language Processing (NLP)** techniques along with **Machine Learning** models to analyze sentiment.
 
